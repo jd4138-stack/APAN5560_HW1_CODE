@@ -1,6 +1,5 @@
 from collections import defaultdict, Counter
 import numpy as np
-import matplotlib.pyplot as plt
 import random
 import re
 
